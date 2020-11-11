@@ -2,7 +2,9 @@
 
 ### Governance
 CP3R: `0x7Ef1081Ecc8b5B5B130656a41d4cE4f89dBBCC8c`
+
 Treasury: `0xbDEF9038ffAbCd13dF3cbbD74CDC6bC47c2BCA73`
+
 Timelock: `0xC70b945fc25897bb218110F6B0a53fE1f8f881f0`
 
 ### Yield and Staking Pools
